@@ -1,4 +1,5 @@
 {	"name": "fcc-learn-npm-package-json",
+  	"author": "Dragomir Ficard Mihai Alexandru",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,5 +11,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-  "author": "Dragomir Ficard Mihai Alexandru"
+
 }
